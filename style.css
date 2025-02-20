@@ -186,7 +186,7 @@ header .navegation li a{
         font-size: 2em;
         color: #e51e2a;
     }
-    .section{
+    section{
     position: relative;
     width: 100%;
     min-height: 100vh;
