@@ -200,5 +200,6 @@ header .navegation li a{
     }
     .icons{
         left: 50px;
+        bottom: -25px;
     }
 }
