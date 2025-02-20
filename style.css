@@ -171,7 +171,7 @@ header .navegation li a{
     }
 
     .text{
-        width: 250px;
+        width: 300px;
         text-align: justify;
     }
 
@@ -185,5 +185,17 @@ header .navegation li a{
     .content .text h2 span{
         font-size: 2em;
         color: #e51e2a;
+    }
+    .section{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    padding: 50px;
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #121212;
+    overflow: hidden;
     }
 }
