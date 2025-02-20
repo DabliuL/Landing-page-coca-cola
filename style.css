@@ -198,4 +198,7 @@ header .navegation li a{
     background: #121212;
     overflow: hidden;
     }
+    .icons{
+        left: 50px;
+    }
 }
