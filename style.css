@@ -31,6 +31,10 @@ section{
     border-radius: 7px;
   }
 
+  h1 {
+    display: none;
+  }
+
 .circle{
     position: absolute;
     top: 0;
@@ -203,8 +207,11 @@ header .navegation li a{
     nav{
         display: none;
     }
-    br{
+    h1{
+        display: flex;
         width: 200px;
         height: 200px;
+        opacity: 0%;
+        font-size: xx-large;
     }
 }
