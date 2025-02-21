@@ -181,11 +181,8 @@ header .navegation li a{
         color: #fff;
         font-size: 2em;
         margin-bottom: 10px;
-        line-height: 2.5em;
-        font-weight: 700;
-    }
-    h2{
         line-height: 1.5em;
+        font-weight: 700;
     }
     .content .text h2 span{
         font-size: 2em;
@@ -204,6 +201,7 @@ header .navegation li a{
     overflow: hidden;
     }
     .icons{
+        display: none;
         left: 50px;
         bottom: -25px;
     }
