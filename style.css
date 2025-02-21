@@ -184,6 +184,9 @@ header .navegation li a{
         line-height: 2.5em;
         font-weight: 700;
     }
+    h2{
+        line-height: 1.5em;
+    }
     .content .text h2 span{
         font-size: 2em;
         color: #e51e2a;
