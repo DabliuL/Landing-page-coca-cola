@@ -210,11 +210,4 @@ header .navegation li a{
     nav{
         display: none;
     }
-    h1{
-        display: flex;
-        width: 200px;
-        height: 200px;
-        opacity: 0%;
-        font-size: xx-large;
-    }
 }
