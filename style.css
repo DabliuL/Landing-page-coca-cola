@@ -169,7 +169,7 @@ header .navegation li a{
     }
 
     .text{
-        width: 300px;
+        width: 500px;
         text-align: justify;
     }
 
@@ -188,7 +188,7 @@ header .navegation li a{
     position: relative;
     width: 100%;
     min-height: 100vh;
-    padding: 50px;
+    padding: 40px;
     padding-top: 100px;
     display: flex;
     justify-content: space-between;
