@@ -203,4 +203,8 @@ header .navegation li a{
     nav{
         display: none;
     }
+    br{
+        width: 200px;
+        height: 200px;
+    }
 }
